@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+j/NFn6fdLk=",
+  "dgSpecHash": "7BRx67Mznjk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hamzq\\OneDrive\\Bureaublad\\API Folder\\DepotWebAPI\\DepotWebAPI.csproj",
+  "projectFilePath": "C:\\stage\\login_api\\DepotWebAPI\\DepotWebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hamzq\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Hamzq\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.8\\microsoft.aspnetcore.authentication.jwtbearer.8.0.8.nupkg.sha512",

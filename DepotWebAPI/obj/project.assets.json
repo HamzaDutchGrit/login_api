@@ -3822,11 +3822,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hamzq\\OneDrive\\Bureaublad\\API Folder\\DepotWebAPI\\DepotWebAPI.csproj",
+      "projectUniqueName": "C:\\stage\\login_api\\DepotWebAPI\\DepotWebAPI.csproj",
       "projectName": "DepotWebAPI",
-      "projectPath": "C:\\Users\\Hamzq\\OneDrive\\Bureaublad\\API Folder\\DepotWebAPI\\DepotWebAPI.csproj",
+      "projectPath": "C:\\stage\\login_api\\DepotWebAPI\\DepotWebAPI.csproj",
       "packagesPath": "C:\\Users\\Hamzq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hamzq\\OneDrive\\Bureaublad\\API Folder\\DepotWebAPI\\obj\\",
+      "outputPath": "C:\\stage\\login_api\\DepotWebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hamzq\\AppData\\Roaming\\NuGet\\NuGet.Config",

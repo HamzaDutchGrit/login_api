@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DepotWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d3d530d3322907600e08597a4af116966eefbdf")]
 [assembly: System.Reflection.AssemblyProductAttribute("DepotWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DepotWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
