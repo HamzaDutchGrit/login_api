@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ewcYA8cJKmhe0D6ltvrXQt5uL2c4HQMAYDhFCDJYGzs=",
+  "Source": "DepotWebAPI",
+  "BasePath": "_content/DepotWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

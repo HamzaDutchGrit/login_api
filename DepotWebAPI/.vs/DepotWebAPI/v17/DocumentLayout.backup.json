@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hamzq\\OneDrive\\Bureaublad\\API Folder\\DepotWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E87D11D1-5401-47ED-8655-1993B17FA923}|DepotWebAPI.csproj|c:\\users\\hamzq\\onedrive\\bureaublad\\api folder\\depotwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87D11D1-5401-47ED-8655-1993B17FA923}|DepotWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87D11D1-5401-47ED-8655-1993B17FA923}|DepotWebAPI.csproj|c:\\users\\hamzq\\onedrive\\bureaublad\\api folder\\depotwebapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87D11D1-5401-47ED-8655-1993B17FA923}|DepotWebAPI.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87D11D1-5401-47ED-8655-1993B17FA923}|DepotWebAPI.csproj|c:\\users\\hamzq\\onedrive\\bureaublad\\api folder\\depotwebapi\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87D11D1-5401-47ED-8655-1993B17FA923}|DepotWebAPI.csproj|solutionrelative:data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87D11D1-5401-47ED-8655-1993B17FA923}|DepotWebAPI.csproj|c:\\users\\hamzq\\onedrive\\bureaublad\\api folder\\depotwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E87D11D1-5401-47ED-8655-1993B17FA923}|DepotWebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87D11D1-5401-47ED-8655-1993B17FA923}|DepotWebAPI.csproj|c:\\users\\hamzq\\onedrive\\bureaublad\\api folder\\depotwebapi\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87D11D1-5401-47ED-8655-1993B17FA923}|DepotWebAPI.csproj|solutionrelative:models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87D11D1-5401-47ED-8655-1993B17FA923}|DepotWebAPI.csproj|c:\\users\\hamzq\\onedrive\\bureaublad\\api folder\\depotwebapi\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87D11D1-5401-47ED-8655-1993B17FA923}|DepotWebAPI.csproj|solutionrelative:models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87D11D1-5401-47ED-8655-1993B17FA923}|DepotWebAPI.csproj|c:\\users\\hamzq\\onedrive\\bureaublad\\api folder\\depotwebapi\\depotwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E87D11D1-5401-47ED-8655-1993B17FA923}|DepotWebAPI.csproj|solutionrelative:depotwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87D11D1-5401-47ED-8655-1993B17FA923}|DepotWebAPI.csproj|c:\\users\\hamzq\\onedrive\\bureaublad\\api folder\\depotwebapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87D11D1-5401-47ED-8655-1993B17FA923}|DepotWebAPI.csproj|solutionrelative:models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Hamzq\\OneDrive\\Bureaublad\\API Folder\\DepotWebAPI\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Hamzq\\OneDrive\\Bureaublad\\API Folder\\DepotWebAPI\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:09:52.933Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepotWebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Hamzq\\OneDrive\\Bureaublad\\API Folder\\DepotWebAPI\\DepotWebAPI.csproj",
+              "RelativeDocumentMoniker": "DepotWebAPI.csproj",
+              "ToolTip": "C:\\Users\\Hamzq\\OneDrive\\Bureaublad\\API Folder\\DepotWebAPI\\DepotWebAPI.csproj",
+              "RelativeToolTip": "DepotWebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-04T08:50:10.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Hamzq\\OneDrive\\Bureaublad\\API Folder\\DepotWebAPI\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\Hamzq\\OneDrive\\Bureaublad\\API Folder\\DepotWebAPI\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "Models\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:44:08.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hamzq\\OneDrive\\Bureaublad\\API Folder\\DepotWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Hamzq\\OneDrive\\Bureaublad\\API Folder\\DepotWebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T08:32:48.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Hamzq\\OneDrive\\Bureaublad\\API Folder\\DepotWebAPI\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Hamzq\\OneDrive\\Bureaublad\\API Folder\\DepotWebAPI\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:31:37.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hamzq\\OneDrive\\Bureaublad\\API Folder\\DepotWebAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Hamzq\\OneDrive\\Bureaublad\\API Folder\\DepotWebAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:18:50.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hamzq\\OneDrive\\Bureaublad\\API Folder\\DepotWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hamzq\\OneDrive\\Bureaublad\\API Folder\\DepotWebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAADwvwQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:36:29.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\Hamzq\\OneDrive\\Bureaublad\\API Folder\\DepotWebAPI\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "Models\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\Hamzq\\OneDrive\\Bureaublad\\API Folder\\DepotWebAPI\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "Models\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:15:45.236Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
