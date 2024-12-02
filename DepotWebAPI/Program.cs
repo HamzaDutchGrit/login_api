@@ -82,6 +82,8 @@ using (var scope = app.Services.CreateScope())
     dbContext.Database.Migrate(); // Voer migraties uit
 }
 
+app.UseCors("AllowAllOrigins");
+
 // Configureer de HTTP-aanvraagpipeline.
 if (app.Environment.IsDevelopment())
 {
