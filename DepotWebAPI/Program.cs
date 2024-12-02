@@ -18,11 +18,11 @@ var builder = WebApplication.CreateBuilder(args);
 // 1. Voeg CORS-services toe aan de container
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowSpecificOrigin", policy =>
+    options.AddPolicy("AllowAllOrigins", policy =>
     {
-        policy.WithOrigins("http://127.0.0.1:5500") // Voeg hier de origin toe die je wilt toestaan
-              .AllowAnyHeader()
-              .AllowAnyMethod();
+        policy.AllowAnyOrigin()  // Staat alle origins toe
+              .AllowAnyHeader()  // Staat elke header toe
+              .AllowAnyMethod(); // Staat elke HTTP-methode toe
     });
 });
 

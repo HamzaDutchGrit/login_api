@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\stage\\login_api\\DepotWebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E87D11D1-5401-47ED-8655-1993B17FA923}|DepotWebAPI.csproj|c:\\stage\\login_api\\depotwebapi\\depotwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E87D11D1-5401-47ED-8655-1993B17FA923}|DepotWebAPI.csproj|solutionrelative:depotwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E87D11D1-5401-47ED-8655-1993B17FA923}|DepotWebAPI.csproj|c:\\stage\\login_api\\depotwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E87D11D1-5401-47ED-8655-1993B17FA923}|DepotWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87D11D1-5401-47ED-8655-1993B17FA923}|DepotWebAPI.csproj|c:\\stage\\login_api\\depotwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E87D11D1-5401-47ED-8655-1993B17FA923}|DepotWebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87D11D1-5401-47ED-8655-1993B17FA923}|DepotWebAPI.csproj|c:\\stage\\login_api\\depotwebapi\\depotwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E87D11D1-5401-47ED-8655-1993B17FA923}|DepotWebAPI.csproj|solutionrelative:depotwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E87D11D1-5401-47ED-8655-1993B17FA923}|DepotWebAPI.csproj|c:\\stage\\login_api\\depotwebapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E87D11D1-5401-47ED-8655-1993B17FA923}|DepotWebAPI.csproj|c:\\stage\\login_api\\depotwebapi\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E87D11D1-5401-47ED-8655-1993B17FA923}|DepotWebAPI.csproj|solutionrelative:data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E87D11D1-5401-47ED-8655-1993B17FA923}|DepotWebAPI.csproj|c:\\stage\\login_api\\depotwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E87D11D1-5401-47ED-8655-1993B17FA923}|DepotWebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E87D11D1-5401-47ED-8655-1993B17FA923}|DepotWebAPI.csproj|c:\\stage\\login_api\\depotwebapi\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -59,16 +59,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DepotWebAPI.csproj",
               "DocumentMoniker": "C:\\stage\\login_api\\DepotWebAPI\\DepotWebAPI.csproj",
               "RelativeDocumentMoniker": "DepotWebAPI.csproj",
               "ToolTip": "C:\\stage\\login_api\\DepotWebAPI\\DepotWebAPI.csproj",
               "RelativeToolTip": "DepotWebAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-04T08:50:10.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T08:50:10.984Z"
             },
             {
               "$type": "Document",
@@ -84,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\stage\\login_api\\DepotWebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -96,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\stage\\login_api\\DepotWebAPI\\Data\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationUser.cs",
@@ -108,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\stage\\login_api\\DepotWebAPI\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -120,13 +119,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\stage\\login_api\\DepotWebAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\stage\\login_api\\DepotWebAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAOwAAAAAAAAAAADwvwQBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T14:36:29.708Z",
               "EditorCaption": ""
