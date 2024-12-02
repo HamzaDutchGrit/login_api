@@ -1,33 +1,29 @@
-# Gebruik de officiële .NET 6 SDK image als basis voor build-stap
-FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
+# Use .NET 8.0 SDK as the base image
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 
-# Zet de werkdirectory in de container
+# Set the working directory
 WORKDIR /src
 
-# Kopieer de csproj bestanden en herstel de dependencies
+# Copy the project file and restore any dependencies (via dotnet restore)
 COPY DepotWebAPI/DepotWebAPI.csproj DepotWebAPI/
-
-# Restore de NuGet dependencies
 RUN dotnet restore "DepotWebAPI/DepotWebAPI.csproj"
 
-# Kopieer alle bestanden naar de container
+# Copy the rest of the source code and build the project
 COPY . .
-
-# Bouw de app
-WORKDIR "/src/DepotWebAPI"
+WORKDIR /src/DepotWebAPI
 RUN dotnet build "DepotWebAPI.csproj" -c Release -o /app/build
 
-# Publiceer de app
+# Publish the application
 RUN dotnet publish "DepotWebAPI.csproj" -c Release -o /app/publish
 
-# Gebruik een basis image voor de runtime (lichtere image)
-FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS base
-
+# Use the ASP.NET Core runtime image for the final stage
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
 WORKDIR /app
 EXPOSE 80
+EXPOSE 443
 
-# Kopieer de gepubliceerde bestanden naar de runtime image
+# Copy the build output from the build container
 COPY --from=build /app/publish .
 
-# Stel het startcommando in
+# Set the entrypoint to your app
 ENTRYPOINT ["dotnet", "DepotWebAPI.dll"]
