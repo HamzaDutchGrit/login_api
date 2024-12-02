@@ -5,7 +5,7 @@ FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
 
 # Kopieer de csproj bestanden en herstel de dependencies
-COPY ["DepotWebAPI/DepotWebAPI.csproj", "DepotWebAPI/"]
+COPY DepotWebAPI/DepotWebAPI.csproj DepotWebAPI/
 
 # Restore de NuGet dependencies
 RUN dotnet restore "DepotWebAPI/DepotWebAPI.csproj"
